@@ -1,0 +1,11 @@
+C:\Users\garga\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\garga\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\garga\Desktop\Calculator\Calculator\bin\Release\Calculator.xml
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Calc.resources
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Form1.resources
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.History.resources
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Resources.resources
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.vbproj.GenerateResource.Cache
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.xml
+C:\Users\garga\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.pdb
